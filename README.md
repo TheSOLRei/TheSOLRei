@@ -1,5 +1,8 @@
-## Hi there 👋
+## ✨ Hi there! I'm S.O.L. (Seven Of Luck) ✨
 
+😄 And I'm new here! I'll try my best
+
+[![TheSOLRei's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSOLRei&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TheSOLRei/TheSOLRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
